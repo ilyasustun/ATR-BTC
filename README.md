@@ -1,6 +1,3 @@
-Here’s a **README.md** draft for your GitHub repository based on the analysis you performed (as extracted from your PDF):
-
----
 
 # BTC Trade Analysis
 
@@ -93,6 +90,4 @@ pip install -r requirements.txt
 
 MIT License. See `LICENSE` file for details.
 
----
 
-If you'd like, I can help generate the `requirements.txt`, a sample notebook, or a starter `scripts/` layout! Let me know your repo name, author info, and license if you want them filled in properly.
